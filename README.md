@@ -1,2 +1,2 @@
 # OSS-licensing
-Open Source Softwre Licensing 
+Open Source Software Licensing 
